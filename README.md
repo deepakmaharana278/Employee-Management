@@ -19,5 +19,7 @@
 - Delete employees from the list
 - Responsive layout that works on desktop and mobile
 
-  ### Author
-  Deepak Maharana
+## Author
+**Deepak Maharana**  
+📧 deepakmaharana3500@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/deepak-maharana-3a7728325)
