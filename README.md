@@ -19,6 +19,13 @@
 - Delete employees from the list
 - Responsive layout that works on desktop and mobile
 
+## Login
+employee1 - employee1@example.com
+employee2 - employee2@example.com
+employee3 - employee3@example.com
+employee4 - employee4@example.com
+pass - 123
+
 ## Author
 **Deepak Maharana**  
 📧 deepakmaharana3500@gmail.com  
