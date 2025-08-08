@@ -21,4 +21,3 @@
 
   ### Author
   Deepak Maharana
-  [email](deepakmaharana3500@gmail.com)
