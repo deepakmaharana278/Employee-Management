@@ -1,9 +1,24 @@
-# React + Vite
+# Employee Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo →](https://employeeemanagementt.netlify.app)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Employee-Management" 
+## Tech Stack
+
+| Part       | Technology  |
+|------------|-------------|
+| Frontend   | React       |
+| Styling    | Tailwind    |
+| Deployment | Netlify     |
+
+## Features
+
+- Display a table of employees
+- Add new employee entries
+- Edit existing employee information
+- Delete employees from the list
+- Responsive layout that works on desktop and mobile
+
+  ### Author
+  Deepak Maharana
+  [email](deepakmaharana3500@gmail.com)
